@@ -116,7 +116,7 @@ author:
   name             : "Lee Hye min"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "Game Development Study"
-  location         : "Somewhere"
+  location         : #"Somewhere"
   email            :
   links:
     - label: #"Email"
