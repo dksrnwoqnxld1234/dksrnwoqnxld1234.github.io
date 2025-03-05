@@ -7,13 +7,13 @@
    ========================================================================== */
 
 $doc-font-size: 13px !default;
-$doc-font-size-medium: $doc-font-size * 0.9 !default;
-$doc-font-size-large: $doc-font-size * 1.1 !default;
-$doc-font-size-x-large: $doc-font-size * 1.2 !default;
+$doc-font-size-medium: $doc-font-size * 1.0 !default;
+$doc-font-size-large: $doc-font-size * 1.15 !default;
+$doc-font-size-x-large: $doc-font-size * 1.25 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
-$indent-var: 1.1em !default;
+$indent-var: 1.2em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
